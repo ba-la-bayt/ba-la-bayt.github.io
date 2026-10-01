@@ -2,21 +2,7 @@
 
 **No paid hosting, no website builder, no command line.** This is a static bilingual site. Upload it to a public GitHub repository, switch on GitHub Pages, and use GitHub's pencil (Edit) button for future updates.
 
-## A. Publish it the first time (about 10 minutes)
-
-1. **Download the ZIP** provided with this guide. Unzip it on your computer.
-2. Sign in at [github.com](https://github.com). In the top-right **+** menu choose **New repository**.
-3. Name the repository **`balabayt-site`** (or another name you prefer). Set **Public**. Do **not** check “Add a README file.” Click **Create repository**.
-4. On the new repository's page, choose **uploading an existing file** (or **Add file → Upload files**).
-5. **Important:** open the unzipped `balabayt_site` folder on your computer. Select **all the files and the `assets` folder INSIDE it**, and drag those items onto GitHub's upload area. Do **not** upload the ZIP itself, and do **not** put the whole folder inside an extra subfolder. The top of the repository should show `index.html`, `styles.css`, `content.js`, `events.js`, `main.js`, `.nojekyll`, and `assets/`.
-6. Click **Commit changes**. (GitHub may display a confirmation dialog; accept it.)
-7. Open the repository's **Settings → Pages** menu. Under **Build and deployment**, choose **Deploy from a branch**. Set Branch to **main**, folder to **/(root)**. Click **Save**.
-8. Wait a few minutes. Refresh **Settings → Pages** until the live site URL appears. Usually it is `https://YOUR-USERNAME.github.io/balabayt-site/`. Open that address in a new tab. Check **EN / עברית**, events, links, and mobile layout.
-9. Share the *site URL*, not the GitHub repository link. This is your public address until/unless you buy a custom domain.
-
-If you name the repository exactly `YOUR-USERNAME.github.io` where YOUR-USERNAME is your actual GitHub account name, the usual homepage is `https://YOUR-USERNAME.github.io/` instead. Only use that naming pattern if this is your intended account-wide GitHub Pages site.
-
-## B. Regular changes — the 3 things organizers need to know
+## Regular changes
 
 **1. Change wording in English or Hebrew**
 
@@ -41,7 +27,7 @@ If you name the repository exactly `YOUR-USERNAME.github.io` where YOUR-USERNAME
 * On GitHub's website, open `assets`, select **Add file → Upload files** and upload the new image. If GitHub warns about a same-name file, follow its replacement flow. Alternatively use the GitHub desktop app to replace the file and commit.
 * The website uses the same filename so no HTML needs editing.
 
-## C. Common problems and recovery
+## Common problems and recovery
 
 | Problem | What to check |
 |---|---|
@@ -55,7 +41,7 @@ If you name the repository exactly `YOUR-USERNAME.github.io` where YOUR-USERNAME
 
 **No visitor accounts or personal data collection:** this site contains no analytics, tracker, or signup database. The external donation and registration links, if enabled, operate on their own services. The website is static and does not take payments itself.
 
-## D. File reference
+## File reference
 
 - `content.js` — **editable English and Hebrew wording**. Most organizers edit this.
 - `events.js` — **editable event listings**. Most organizers edit this.
