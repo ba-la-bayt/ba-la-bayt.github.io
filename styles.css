@@ -52,13 +52,13 @@
   --color-transparent:transparent;
 
   /* Typography scale */
-  --font-size-xs:13px;
-  --font-size-sm:14px;
-  --font-size-ui:15px;
-  --font-size-body:17px;
-  --font-size-body-lg:19px;
-  --font-size-card-title:18px;
-  --font-size-section-lead:21px;
+  --font-size-xs:15px;
+  --font-size-sm:16px;
+  --font-size-ui:17px;
+  --font-size-body:19px;
+  --font-size-body-lg:21px;
+  --font-size-card-title:20px;
+  --font-size-section-lead:23px;
 
   /* Layout */
   --max:1190px;
