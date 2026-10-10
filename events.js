@@ -29,7 +29,7 @@ window.BALABAYT_EVENTS = [
       en: "Hear from Nili Margalit and Eyal Barad about their experiences of October 7, captivity, survival, and the impact on the Nir Oz community.",
       he: "מפגש עם נילי מרגלית ואייל ברעד, שישתפו בחוויותיהם מ־7 באוקטובר, בשבי, בהישרדות ובהשפעת המתקפה על קהילת ניר עוז."
     },
-    image: "assets/favicon.png",
+    image: "assets/events/IMG-20261009-WA0004.jpg",
     imageAlt: {
       en: "Event image for the Kibbutz Nir Oz testimonies evening",
       he: "תמונת האירוע לערב העדויות מקיבוץ ניר עוז"
