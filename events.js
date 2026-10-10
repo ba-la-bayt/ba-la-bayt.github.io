@@ -23,13 +23,13 @@ window.BALABAYT_EVENTS = [
     category: { en: "Community talk", he: "מפגש קהילתי" },
     title: {
       en: "From the Inferno of the Safe Room and the Tunnels of Gaza to the Path of Healing and Recovery (Personal stories from Kibbutz Nir Oz)",
-      he: "(עדויות אישיות מקיבוץ ניר עוז) מהתופת בממד ובמנהרות בעזה, אל הדרך לריפוי ולהחלמה"
+      he: "מהתופת בממד ובמנהרות בעזה, אל הדרך לריפוי ולהחלמה (עדויות אישיות מקיבוץ ניר עוז)"
     },
     description: {
       en: "Hear from Nili Margalit and Eyal Barad about their experiences of October 7, captivity, survival, and the impact on the Nir Oz community.",
       he: "מפגש עם נילי מרגלית ואייל ברעד, שישתפו בחוויותיהם מ־7 באוקטובר, בשבי, בהישרדות ובהשפעת המתקפה על קהילת ניר עוז."
     },
     registrationUrl: "https://forms.gle/dbS2DvkCFnZUHeaP7", // Add registration link only if there is one.
-    qrImage: "assets/events/IMG-20261009-WA0004.jpg" // Optional: file in assets/, generated from the registration link.
+    qrImage: "assets/favicon.png" // Optional: file in assets/, generated from the registration link.
   }
 ];
