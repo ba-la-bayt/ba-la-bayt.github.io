@@ -17,19 +17,19 @@
 window.BALABAYT_EVENTS = [
   {
     id: "nir-oz-testimonies",
-    published: false, // HIDDEN until confirmed details are entered.
-    date: "", // YYYY-MM-DD, e.g. 2026-12-05 ONLY IF IT IS THE ACTUAL DATE.
-    time: "", // e.g. 19:00 (24-hour clock)
+    published: true, // HIDDEN until confirmed details are entered.
+    date: "2026-10-18", // YYYY-MM-DD, e.g. 2026-12-05 ONLY IF IT IS THE ACTUAL DATE.
+    time: "19:00", // e.g. 19:00 (24-hour clock)
     category: { en: "Community talk", he: "מפגש קהילתי" },
     title: {
-      en: "October 7: Personal stories from Kibbutz Nir Oz",
-      he: "7 באוקטובר: עדויות אישיות מקיבוץ ניר עוז"
+      en: "From the Inferno of the Safe Room and the Tunnels of Gaza to the Path of Healing and Recovery (Personal stories from Kibbutz Nir Oz)",
+      he: "(עדויות אישיות מקיבוץ ניר עוז) מהתופת בממד ובמנהרות בעזה, אל הדרך לריפוי ולהחלמה"
     },
     description: {
       en: "Hear from Nili Margalit and Eyal Barad about their experiences of October 7, captivity, survival, and the impact on the Nir Oz community.",
-      he: "מפגש עם נילי מרגלית ואייל ברד, שישתפו בחוויותיהם מ־7 באוקטובר, בשבי, בהישרדות ובהשפעת המתקפה על קהילת ניר עוז."
+      he: "מפגש עם נילי מרגלית ואייל ברעד, שישתפו בחוויותיהם מ־7 באוקטובר, בשבי, בהישרדות ובהשפעת המתקפה על קהילת ניר עוז."
     },
-    registrationUrl: "", // Add registration link only if there is one.
-    qrImage: "" // Optional: file in assets/, generated from the registration link.
+    registrationUrl: "https://forms.gle/dbS2DvkCFnZUHeaP7", // Add registration link only if there is one.
+    qrImage: "assets/events/IMG-20261009-WA0004.jpg" // Optional: file in assets/, generated from the registration link.
   }
 ];
