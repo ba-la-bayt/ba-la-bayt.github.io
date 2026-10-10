@@ -30,6 +30,6 @@ window.BALABAYT_EVENTS = [
       he: "מפגש עם נילי מרגלית ואייל ברעד, שישתפו בחוויותיהם מ־7 באוקטובר, בשבי, בהישרדות ובהשפעת המתקפה על קהילת ניר עוז."
     },
     registrationUrl: "https://forms.gle/dbS2DvkCFnZUHeaP7", // Add registration link only if there is one.
-    qrImage: "assets/favicon.png" // Optional: file in assets/, generated from the registration link.
+    qrImage: "assets/IMG-20261009-WA0004.jpg" // Optional: file in assets/, generated from the registration link.
   }
 ];
