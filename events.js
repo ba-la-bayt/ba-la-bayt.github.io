@@ -18,8 +18,7 @@ window.BALABAYT_EVENTS = [
   {
     id: "nir-oz-testimonies",
     published: true, // HIDDEN until confirmed details are entered.
-    /*date: "2026-10-18", // YYYY-MM-DD, e.g. 2026-12-05 ONLY IF IT IS THE ACTUAL DATE.*/
-    date: "2026-11-18", // YYYY-MM-DD, e.g. 2026-12-05 ONLY IF IT IS THE ACTUAL DATE.
+    date: "2026-10-18", // YYYY-MM-DD, e.g. 2026-12-05 ONLY IF IT IS THE ACTUAL DATE.
     time: "19:00", // e.g. 19:00 (24-hour clock)
     category: { en: "Community talk", he: "מפגש קהילתי" },
     title: {
