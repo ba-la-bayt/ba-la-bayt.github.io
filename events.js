@@ -39,7 +39,7 @@ window.BALABAYT_EVENTS = [
   }*/
 
   {
-    id: "nir-oz-testimonies",
+    id: "Pub lecture",
     published: true, // HIDDEN until confirmed details are entered.
     date: "2026-11-22", // YYYY-MM-DD, e.g. 2026-12-05 ONLY IF IT IS THE ACTUAL DATE.
     time: "19:30", // e.g. 19:00 (24-hour clock)
@@ -52,13 +52,15 @@ window.BALABAYT_EVENTS = [
       en: "Artificial intelligence ultimately runs on physical hardware. As AI systems grow larger and more capable, they require increasingly powerful processors, larger and faster memory systems, and enormous data bandwidth. Producing these devices requires some of the most complex manufacturing processes ever developed, involving hundreds of tightly controlled fabrication steps, specialized equipment, advanced materials, and extensive testing. This combination has transformed computer chips from ordinary electronic components into a critical resource and potential bottleneck for the continued expansion of AI. In this lecture we will explore the basic science and technology of silicon chips and how are they manufactured.",
       he:  "כולם מדברים על בינה מלאכותית והחיבור שלה לכל תחומי החיים, אבל בסופו של דבר היא נשענת על חומרה פיזית. ככל שמערכות הופכות למהירות ומתקדמות יותר, כך גדל הצורך במעבדי מחשב חזקים מהירים יותר. הייצור של השבבים האלה הוא אחד התהליכים המורכבים בעולם, מה שהפך אותם למשאב הכי מבוקש – ולצוואר הבקבוק המרכזי של תעשיית הטכנולוגיה. ​בהרצאה נצלול אל מאחורי הקלעים של שבבי הסיליקון, ונבין איך הם עובדים, איך מייצרים אותם בפועל ואיזו פריצת דרך מחכה בעתיד."
     },
-    image: "assets/events/IMG-20261009-WA0004.jpg",
+    image: "assets/events/IMG-20261117-WA0001.jpg",
     imageAlt: {
-      en: "Event image for the Kibbutz Nir Oz testimonies evening",
-      he: "תמונת האירוע לערב העדויות מקיבוץ ניר עוז"
+      en: "",
+      he: ""
     },
-    registrationUrl: "https://forms.gle/dbS2DvkCFnZUHeaP7", // Add registration link only if there is one.
+    registrationUrl: "https://docs.google.com/forms/d/e/1FAIpQLSfKqr6EBl-d4dqh_bkrGXKszc9cH-svJoYMP2aSVyOCwLmM8g/viewform", // Add registration link only if there is one.
     qrImage: "" // Optional: file in assets/, generated from the registration link.
   }
+
+  
 
 ];
