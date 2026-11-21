@@ -59,7 +59,7 @@ window.BALABAYT_EVENTS = [
     },
     registrationUrl: "https://docs.google.com/forms/d/e/1FAIpQLSfKqr6EBl-d4dqh_bkrGXKszc9cH-svJoYMP2aSVyOCwLmM8g/viewform", // Add registration link only if there is one.
     qrImage: "" // Optional: file in assets/, generated from the registration link.
-  }
+  },
 
    {
     id: "Pub event",
