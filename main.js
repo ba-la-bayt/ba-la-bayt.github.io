@@ -76,6 +76,11 @@
       .filter(upcoming)
       .sort((a, b) => a.date.localeCompare(b.date));
 
+    root.classList.toggle(
+      'events-grid--multiple',
+      events.length > 1
+    );
+
     if (!events.length) {
       const holder = make('div', 'empty-events');
 
