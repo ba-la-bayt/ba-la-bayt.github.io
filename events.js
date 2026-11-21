@@ -41,7 +41,7 @@ window.BALABAYT_EVENTS = [
   {
     id: "Pub lecture",
     published: true, // HIDDEN until confirmed details are entered.
-    date: "2026-11-22", // YYYY-MM-DD, e.g. 2026-12-05 ONLY IF IT IS THE ACTUAL DATE.
+    date: "2026-11-21", // YYYY-MM-DD, e.g. 2026-12-05 ONLY IF IT IS THE ACTUAL DATE.
     time: "19:30", // e.g. 19:00 (24-hour clock)
     category: { en: "Community talk", he: "מפגש קהילתי" },
     title: {
@@ -61,6 +61,28 @@ window.BALABAYT_EVENTS = [
     qrImage: "" // Optional: file in assets/, generated from the registration link.
   }
 
-  
+   {
+    id: "Pub event",
+    published: true, // HIDDEN until confirmed details are entered.
+    date: "2026-11-21", // YYYY-MM-DD, e.g. 2026-12-05 ONLY IF IT IS THE ACTUAL DATE.
+    time: "21:00", // e.g. 19:00 (24-hour clock)
+    category: { en: "Community talk", he: "מפגש קהילתי" },
+    title: {
+      en: "Musical Bingo!",
+      he: "!בינגו מוסיקה ״מינגו״"
+    },
+    description: {
+      en: "Join us for a musical bingo night - Mingo! Instead of numbers, identify the songs played live by our DJ and compete for blue-and-white Israeli prizes.",
+      he:  "מכירים את השיר? זכיתם! פגשים ב״בַּע-לָ-בַּיִת״ לערב בינגו מוסיקה ״מינגו״ – משחק קבוצתי סוחף שבו במקום מספרים, מסמנים על הלוח להיטים ישראליים שה-DJ מנגן בלייב, שרים בטירוף ומתחרים על פרסים כחול לבן"
+    },
+    image: "assets/events/IMG-20261120-WA0001.jpg",
+    imageAlt: {
+      en: "",
+      he: ""
+    },
+    registrationUrl: "https://docs.google.com/forms/d/e/1FAIpQLSfKqr6EBl-d4dqh_bkrGXKszc9cH-svJoYMP2aSVyOCwLmM8g/viewform", // Add registration link only if there is one.
+    qrImage: "" // Optional: file in assets/, generated from the registration link.
+  }
 
+  
 ];
